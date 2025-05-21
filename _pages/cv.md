@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae of Jinsheng Ji"
 permalink: /cv/
 author_profile: true
 redirect_from:
