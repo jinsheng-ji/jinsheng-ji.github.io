@@ -17,10 +17,9 @@ Education
 
 Employment
 ======
-* Dec 2021 to now: Research Fellow
-  * Nanyang Technological University
-  * Duties includes: Research on efficient and safe AI aglorithm for condition monitoring of power substations
-  * Supervisor: Xudong Jiang
+* Dec 2021 to now: Nanyang Technological University, Research Fellow (Supervisor: [Xudong Jiang](https://dr.ntu.edu.sg/cris/rp/rp00233))
+  * Edge-computing AI for partial discharge identification in Switchgear
+  * Safe and efficient AI aglorithm for online condition monitoring of distributed power substations
   
 Publications
 ======
