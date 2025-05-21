@@ -1,60 +1,60 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Jinsheng Ji",
+    "email": "jinshengji.ji[at]gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://jinsheng-ji.github.io/",
+    "summary": "Currently employed at Nanyang Technological University as a Research Fellow",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "address": "S2-B7-C01, 50 Nanyang Avenue",
+      "postalCode": "639798",
+      "city": "Singapore",
+      "countryCode": "Singapore",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Jinsheng Ji",
+        "url": "https://scholar.google.com/citations?user=eXIm3igAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0002-5360-919X",
+        "url": "http://orcid.org/0000-0002-5360-919X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "jinsheng-ji",
+        "url": "https://github.com/jinsheng-ji"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "Ph.D in Control Science and Engineer",
+      "studyType": "Full time",
+      "startDate": "2016",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Shanghai Jiao Tong University",
+      "area": "M.S. in Control Science and Engineer",
+      "studyType": "Full time",
+      "startDate": "2012",
+      "endDate": "2015",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Nanjing Agricultural University",
+      "area": "B.S. in Automation",
+      "studyType": "Full time",
+      "startDate": "2008",
       "endDate": "2012",
       "gpa": null,
       "courses": []
