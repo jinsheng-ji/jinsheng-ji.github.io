@@ -10,13 +10,18 @@ Hi, I am Jinsheng Ji. I received the B.Sc. degree in automation from Nanjing Agr
 
 News
 ======
-* One journal paper is accepted by IEEE Transactions on Geoscience and Remote Sensing (2025.1.1) LINK
-* One journal paper is accepted by IEEE Transactions on Industrial Informatics (2024) LINK
-* One journal paper is accepted by IEEE Transactions on Instrumentation and Measurement (2024) LINK
-* One conference paper is accepted by IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS) (2023) LINK
-* Two conference papers are accepted by IEEE International Geoscience and Remote Sensing Symposium (2023) LINK
+* Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (2025.1.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10847778)
+* Our paper has been accepted by IEEE Internet of Things Journal (2024.9.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10684776)
+* Our paper has been accepted by IEEE Transactions on Industrial Informatics (2024.6.24) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10569991)
+* Our paper has been accepted by IEEE Transactions on Microwave Theory and Techniques (2024.5.7) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10522489)
+* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2024.1.08) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10384445)
+* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2023.11.23) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10328632)
+* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2023.5.19) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10129983)
+* Our paper has been accepted by IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS) (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10314925)
+* Our two papers have been accepted by IEEE International Geoscience and Remote Sensing Symposium (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10282366) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10281715)
 
-Publications
+
+Selected Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
