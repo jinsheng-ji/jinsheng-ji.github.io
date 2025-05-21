@@ -17,7 +17,6 @@ I am currently serving as a Research Fellow in SP Group-NTU Joint Lab of Nanyang
 
 News
 ======
-<div style="text-align: justify;">
 * Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (2025.1.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10847778)
 * Our paper has been accepted by IEEE Internet of Things Journal (2024.9.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10684776)
 * Our paper has been accepted by IEEE Transactions on Industrial Informatics (2024.6.24) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10569991)
@@ -27,7 +26,6 @@ News
 * Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2023.5.19) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10129983)
 * Our paper has been accepted by IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS) (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10314925)
 * Our two papers have been accepted by IEEE International Geoscience and Remote Sensing Symposium (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10282366) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10281715)
-</div>
 
 Selected Publications
 ======
