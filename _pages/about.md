@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi, I am Jinsheng Ji. I received my Ph.D. and M.Eng. degrees in control science and engineering from Shanghai Jiao Tong University in 2021 and 2015, China. The B.Sc. degree in automation was obtained from Nanjing Agricultural University in 2012, China. My research mainly focuses on edge-computing AI, federated leanring, fault diagnosis and image processing.
   
-I am currently serving as a Research Fellow in SP Group-NTU Joint Lab of Nanyang Technological University, Singapore. My job in the Lab to study and develop a safe and efficient edge AI algorithm for monitoring partial discharge in Switchgear (P4: Online Condition Monitoring for Distribution Switchgear, supported by SP Group, the National Research Foundation Singapore, and the Energy Market Authority of Singapore under its Energy Programme, EP Award EMA-EP010-SNJL-004). 
+I am currently serving as a Research Fellow in SP Group-NTU Joint Lab of Nanyang Technological University, Singapore. My job in the Lab to study and develop a safe and efficient edge AI algorithm for monitoring partial discharge in Switchgear ([P4: Online Condition Monitoring for Distribution Switchgear](https://www.ntu.edu.sg/spgroup-ntu/research-focus/thrust-c---project-4), supported by SP Group, the National Research Foundation Singapore, and the Energy Market Authority of Singapore under its Energy Programme, EP Award EMA-EP010-SNJL-004). 
 
 News
 ======
