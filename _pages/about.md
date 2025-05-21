@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jinsheng Ji personal website"
+title: "Jinsheng Ji's personal website"
 author_profile: true
 redirect_from: 
   - /about/
