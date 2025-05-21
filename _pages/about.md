@@ -24,8 +24,6 @@ News
 
 Selected Publications
 ======
-<div style="text-align: justify;">
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-</div>
