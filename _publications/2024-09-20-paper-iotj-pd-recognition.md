@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-20-paper-iotj-pd-recognition
 excerpt: 'This paper is about partial discharge detection.'
-date: 2025-09-20
+date: 2024-09-20
 venue: ' IEEE Internet of Things Journal'
 slidesurl: 'https://ieeexplore.ieee.org/document/10684776'
 paperurl: 'https://ieeexplore.ieee.org/document/10684776'
