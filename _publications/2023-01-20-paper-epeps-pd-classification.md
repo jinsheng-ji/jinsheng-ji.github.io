@@ -3,7 +3,7 @@ title: "Knowledge Distillation and Multi-task Feature Learning for Partial Disch
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-epeps-pd-classification
-excerpt: null
+excerpt: ""
 date: 2023-10-15
 venue: '2023 IEEE 32nd Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS)'
 slidesurl: null
