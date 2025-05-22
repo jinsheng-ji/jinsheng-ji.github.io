@@ -3,10 +3,10 @@ title: "From Coarse to Fine: Learning Semantic Relations for Hyperspectral Image
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-igarss-hyperspectral-classification
-excerpt:
+excerpt: ""
 date: 2023-07-16
 venue: 'IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium'
-slidesurl: 'https://ieeexplore.ieee.org/document/10281715'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10281715'
 citation: '<u><strong>Ji, Jinsheng</strong></u> and Lu, Xiankai and Zhang, Tao and Guo, Yiyou and Xie, Huan, "From Coarse to Fine: Learning Semantic Relations for Hyperspectral Image Classification," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 7653-7656, doi: 10.1109/IGARSS52108.2023.10281715.'
 ---

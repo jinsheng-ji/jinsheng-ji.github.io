@@ -3,10 +3,10 @@ title: "Partial Discharge Detection and Classification Using Low-Noise UHF Sensi
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-07-paper-tmtt-pd-recognition
-excerpt:
+excerpt: ""
 date: 2024-05-07
 venue: 'IEEE Transactions on Microwave Theory and Techniques'
-slidesurl: 'https://ieeexplore.ieee.org/document/10522489'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10522489'
 citation: 'Shu, Zhou and Zhao, Zhenyu and <u><strong>Ji, Jinsheng</strong></u> and Shi, Ting and Wang, Wensong and Zheng, Yuanjin and Guo, Yongxin, "Partial Discharge Detection and Classification Using Low-Noise UHF Sensing Frontend and Wavelet Scattering Feature Extraction Network," in IEEE Transactions on Microwave Theory and Techniques, vol. 72, no. 11, pp. 6686-6695, Nov. 2024, doi: 10.1109/TMTT.2024.3393993.'
 ---

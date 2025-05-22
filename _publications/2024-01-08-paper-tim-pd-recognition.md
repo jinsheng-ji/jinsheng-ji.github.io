@@ -3,10 +3,10 @@ title: "Edge-Computing-Based Knowledge Distillation and Multitask Learning for P
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-08-paper-tim-pd-recognition
-excerpt:
+excerpt: ""
 date: 2024-01-08
 venue: ' IEEE Transactions on Instrumentation and Measurement'
-slidesurl: 'https://ieeexplore.ieee.org/document/10384445'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10384445'
 citation: '<u><strong>Ji, Jinsheng</strong></u> and Shu, Zhou and Li, Hongqun and Lai, Kai Xian and Lu, Minshan and Jiang, Guanlin and Wang, Wensong and Zheng, Yuanjin and Jiang, Xudong, "Edge-Computing-Based Knowledge Distillation and Multitask Learning for Partial Discharge Recognition," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-11, 2024, Art no. 5008011, doi: 10.1109/TIM.2024.3351239.'
 ---

@@ -3,10 +3,10 @@ title: "From Coarse to Fine: Knowledge Distillation for Remote Sensing Scene Cla
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-igarss-scene-classification
-excerpt:
+excerpt: ""
 date: 2023-07-16
 venue: 'IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium'
-slidesurl: 'https://ieeexplore.ieee.org/document/10282366'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10282366'
 citation: '<u><strong>Ji, Jinsheng</strong></u> and Xi, Xiaoming and Lu, Xiankai and Guo, Yiyou and Xie, Huan, "From Coarse to Fine: Knowledge Distillation for Remote Sensing Scene Classification," IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium, Pasadena, CA, USA, 2023, pp. 5427-5430, doi: 10.1109/IGARSS52108.2023.10282366.'
 ---

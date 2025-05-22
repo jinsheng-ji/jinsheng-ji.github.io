@@ -3,10 +3,10 @@ title: "Application of A Low-Noise UHF Sensing System for Partial Discharge Diag
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-iecon-chip-pd-classificatition
-excerpt:
+excerpt: ""
 date: 2023-10-16
 venue: 'IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society'
-slidesurl: 'https://ieeexplore.ieee.org/document/10311918'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10311918'
 citation: 'Shu, Zhou and Wang, Yange and <u><strong>Ji, Jinsheng</strong></u> and Lu, Mingshan and Jiang, Guanlin and Wang, Wensong and Li, Hongqun and Zheng, Yuanjin, "Application of A Low-Noise UHF Sensing System for Partial Discharge Diagnostic in Power Networks," IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, Singapore, 2023, pp. 1-5, doi: 10.1109/IECON51785.2023.10311918.'
 ---

@@ -3,10 +3,10 @@ title: "SoC Based Application of Smart Automatic Online Realtime Partial Dischar
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-iecon-chip-pd-classificatition
-excerpt:
+excerpt: ""
 date: 2023-10-16
 venue: 'IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society'
-slidesurl: 'https://ieeexplore.ieee.org/document/10311880'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10311880'
 citation: 'Lu, Minshan and <u><strong>Ji, Jinsheng</strong></u> and Jiang, Guanlin and Zhou, Shu and Li, Hongqun and Zheng, Yuanjin, "SoC Based Application of Smart Automatic Online Realtime Partial Discharge Condition Monitoring System for the Power Grid," IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, Singapore, Singapore, 2023, pp. 1-6, doi: 10.1109/IECON51785.2023.10311880.'
 ---

@@ -3,10 +3,10 @@ title: "Noise Separation and Discriminative Feature Learning for Partial Dischar
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-24-paper-tii-pd-recognition
-excerpt:
+excerpt: ""
 date: 2024-06-24
 venue: 'IEEE Transactions on Industrial Informatics'
-slidesurl: 'https://ieeexplore.ieee.org/document/10569991'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10569991'
 citation: '<u><strong>Ji, Jinsheng</strong></u> and Shu, Zhou and Wang, Wensong and Li, Hongqun and Lai, Kai Xian and Zheng, Yuanjin and Jiang, Xudong, "Noise Separation and Discriminative Feature Learning for Partial Discharge Recognition," in IEEE Transactions on Industrial Informatics, vol. 20, no. 10, pp. 11774-11784, Oct. 2024, doi: 10.1109/TII.2024.3413307.'
 ---

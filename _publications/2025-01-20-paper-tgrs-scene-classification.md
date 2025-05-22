@@ -3,10 +3,10 @@ title: "Remote Sensing Scene Classification via Pseudo-Category-Relationand Orth
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-20-paper-tgrs-scene-classification
-excerpt:
+excerpt: ""
 date: 2025-01-20
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
-slidesurl: 'https://ieeexplore.ieee.org/document/10847778'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10847778'
 citation: '<u><strong>Ji, Jinsheng</strong></u> and Lu, Xiankai and Zhang, Tao and Guo, Yiyou and Yang, Gongping, "Remote Sensing Scene Classification via Pseudo-Category-Relationand Orthogonal Feature Learning," in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-14, 2025, Art no. 5607614, doi: 10.1109/TGRS.2025.3531927.'
 ---

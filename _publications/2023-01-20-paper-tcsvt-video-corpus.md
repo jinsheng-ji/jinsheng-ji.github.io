@@ -3,10 +3,10 @@ title: "Video Corpus Moment Retrieval via Deformable Multigranularity Feature Fu
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-20-paper-tcsvt-video-corpus
-excerpt:
+excerpt: ""
 date: 2023-07-12
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
-slidesurl: 'https://ieeexplore.ieee.org/document/10179965'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10179965'
 citation: 'Zhang, Xuemei and Zhao, Peng and <u><strong>Ji, Jinsheng</strong></u> and Lu, Xiankai and Yin, Yilong, "Video Corpus Moment Retrieval via Deformable Multigranularity Feature Fusion and Adversarial Training," in IEEE Transactions on Circuits and Systems for Video Technology, vol. 34, no. 8, pp. 6686-6698, Aug. 2024, doi: 10.1109/TCSVT.2023.3294567.'
 ---

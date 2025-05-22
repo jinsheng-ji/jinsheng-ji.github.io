@@ -3,10 +3,10 @@ title: "Broadband 3-D Omnidirectional Magnetic Induction-Based Sensor Module for
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-20-paper-iotj-pd-recognition
-excerpt:
+excerpt: ""
 date: 2024-09-20
 venue: ' IEEE Internet of Things Journal'
-slidesurl: 'https://ieeexplore.ieee.org/document/10684776'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10684776'
 citation: 'Hong, Kai-Dong and Wang, Wensong and Jiang, Guanlin and Shu, Zhou and <u><strong>Ji, Jinsheng</strong></u> and Lu, Minshan and Zheng, Yuanjin, "Broadband 3-D Omnidirectional Magnetic Induction-Based Sensor Module for Partial Discharge Detection of High-Voltage Equipment in IIoT Application," in IEEE Internet of Things Journal, vol. 12, no. 2, pp. 1831-1842, 15 Jan.15, 2025, doi: 10.1109/JIOT.2024.3464752.'
 ---

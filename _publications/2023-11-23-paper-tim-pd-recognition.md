@@ -3,10 +3,10 @@ title: "Coil Antenna Sensor-Based Measurement Method to Online Detect Partial Di
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-23-paper-tim-pd-recognition
-excerpt:
+excerpt: ""
 date: 2023-11-23
 venue: 'IEEE Transactions on Instrumentation and Measurement'
-slidesurl: 'https://ieeexplore.ieee.org/document/10328632'
+slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/10328632'
 citation: 'Wang, Wensong and Wang, Yange and Shu, Zhou and Wang, Xixi and Lu, Mingshan and Jiang, Guanlin and <u><strong>Ji, Jinsheng</strong></u> and Li, Hongqun and Lai, Kai Xian and Zheng, Yuanjin, "Coil Antenna Sensor-Based Measurement Method to Online Detect Partial Discharge in Distributed Power Networks," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-8, 2024, Art no. 1001008, doi: 10.1109/TIM.2023.3336449.'
 ---
