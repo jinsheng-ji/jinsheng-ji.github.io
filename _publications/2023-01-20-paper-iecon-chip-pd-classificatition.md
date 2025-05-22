@@ -3,7 +3,7 @@ title: "SoC Based Application of Smart Automatic Online Realtime Partial Dischar
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-iecon-chip-pd-classificatition
-excerpt: 'This paper is about FPGE-accelerated partial discharge classificaion.'
+excerpt:
 date: 2023-10-16
 venue: 'IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society'
 slidesurl: 'https://ieeexplore.ieee.org/document/10311880'

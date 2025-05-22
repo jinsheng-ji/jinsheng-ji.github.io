@@ -3,7 +3,7 @@ title: "External Partial Discharge Detection of Gas-Insulated Switchgears Using 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-05-19-paper-tim-pd-recognition
-excerpt: 'This paper is about partial discharge detection.'
+excerpt:
 date: 2023-05-19
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 slidesurl: 'https://ieeexplore.ieee.org/document/10129983'

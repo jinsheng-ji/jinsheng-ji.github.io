@@ -6,7 +6,7 @@ permalink: /publication/2023-01-20-paper-epeps-pd-classification
 excerpt:
 date: 2023-10-15
 venue: '2023 IEEE 32nd Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS)'
-slidesurl: 'https://ieeexplore.ieee.org/document/10314925'
+slidesurl:
 paperurl: 'https://ieeexplore.ieee.org/document/10314925'
 citation: '<u><strong>Ji, Jinsheng</strong></u> and Shu, Zhou and Li, Hongqun and Lai, Kai Xian and Zheng, Yuanjin and Jiang, Xudong, "Knowledge Distillation and Multi-task Feature Learning for Partial Discharge Recognition," 2023 IEEE 32nd Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS), Milpitas, CA, USA, 2023, pp. 1-3, doi: 10.1109/EPEPS58208.2023.10314925.'
 ---

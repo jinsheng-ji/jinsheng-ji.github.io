@@ -3,7 +3,7 @@ title: "Broadband 3-D Omnidirectional Magnetic Induction-Based Sensor Module for
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-20-paper-iotj-pd-recognition
-excerpt: 'This paper is about partial discharge detection.'
+excerpt:
 date: 2024-09-20
 venue: ' IEEE Internet of Things Journal'
 slidesurl: 'https://ieeexplore.ieee.org/document/10684776'

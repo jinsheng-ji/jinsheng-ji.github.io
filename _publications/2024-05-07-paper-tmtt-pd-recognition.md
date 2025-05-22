@@ -3,7 +3,7 @@ title: "Partial Discharge Detection and Classification Using Low-Noise UHF Sensi
 collection: publications
 category: manuscripts
 permalink: /publication/2024-05-07-paper-tmtt-pd-recognition
-excerpt: 'This paper is about partial discharge for GIS equipment in distributed power substations.'
+excerpt:
 date: 2024-05-07
 venue: 'IEEE Transactions on Microwave Theory and Techniques'
 slidesurl: 'https://ieeexplore.ieee.org/document/10522489'

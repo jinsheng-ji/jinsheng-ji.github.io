@@ -3,7 +3,7 @@ title: "Remote Sensing Scene Classification via Pseudo-Category-Relationand Orth
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-20-paper-tgrs-scene-classification
-excerpt: 'This paper is about remote sensing image classificaion.'
+excerpt:
 date: 2025-01-20
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 slidesurl: 'https://ieeexplore.ieee.org/document/10847778'

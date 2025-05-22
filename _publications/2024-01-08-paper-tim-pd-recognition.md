@@ -3,7 +3,7 @@ title: "Edge-Computing-Based Knowledge Distillation and Multitask Learning for P
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-08-paper-tim-pd-recognition
-excerpt: 'This paper is about edge AI for efficient partial discharge for GIS equipment in distributed power substations.'
+excerpt:
 date: 2024-01-08
 venue: ' IEEE Transactions on Instrumentation and Measurement'
 slidesurl: 'https://ieeexplore.ieee.org/document/10384445'

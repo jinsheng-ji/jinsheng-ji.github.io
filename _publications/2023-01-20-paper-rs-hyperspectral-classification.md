@@ -3,7 +3,7 @@ title: "Random Shuffling Data for Hyperspectral Image Classification with Siames
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-20-paper-rs-hyperspectral-classification
-excerpt: 'This paper is about hyperspectral image classificaion.'
+excerpt:
 date: 2023-08-18
 venue: 'Remote Sensing'
 slidesurl: 'https://www.mdpi.com/2072-4292/15/16/4078'

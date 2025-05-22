@@ -3,7 +3,7 @@ title: "Noise Separation and Discriminative Feature Learning for Partial Dischar
 collection: publications
 category: manuscripts
 permalink: /publication/2024-06-24-paper-tii-pd-recognition
-excerpt: 'This paper is about partial discharge recognition for GIS equipment in distributed power substation.'
+excerpt:
 date: 2024-06-24
 venue: 'IEEE Transactions on Industrial Informatics'
 slidesurl: 'https://ieeexplore.ieee.org/document/10569991'

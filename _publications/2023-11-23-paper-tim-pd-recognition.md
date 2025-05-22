@@ -3,7 +3,7 @@ title: "Coil Antenna Sensor-Based Measurement Method to Online Detect Partial Di
 collection: publications
 category: manuscripts
 permalink: /publication/2024-11-23-paper-tim-pd-recognition
-excerpt: 'This paper is about partial discharge detection.'
+excerpt:
 date: 2023-11-23
 venue: 'IEEE Transactions on Instrumentation and Measurement'
 slidesurl: 'https://ieeexplore.ieee.org/document/10328632'

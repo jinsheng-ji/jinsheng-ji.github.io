@@ -3,7 +3,7 @@ title: "Video Corpus Moment Retrieval via Deformable Multigranularity Feature Fu
 collection: publications
 category: manuscripts
 permalink: /publication/2023-01-20-paper-tcsvt-video-corpus
-excerpt: 'This paper is about remote sensing image classificaion.'
+excerpt:
 date: 2023-07-12
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 slidesurl: 'https://ieeexplore.ieee.org/document/10179965'
