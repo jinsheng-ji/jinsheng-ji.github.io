@@ -25,14 +25,14 @@ News
 * Our paper has been accepted by IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS) (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10314925)
 * Our two papers have been accepted by IEEE International Geoscience and Remote Sensing Symposium (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10282366) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10281715)
 
-Selected Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Projects
 ====== 
   <ul>{% for post in site.portfolio %}
     {% include archive-single.html %}
+  {% endfor %}</ul>
+  
+Selected Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>

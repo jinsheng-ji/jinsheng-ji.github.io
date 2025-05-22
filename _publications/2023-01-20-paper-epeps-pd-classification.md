@@ -3,7 +3,7 @@ title: "Knowledge Distillation and Multi-task Feature Learning for Partial Disch
 collection: publications
 category: conferences
 permalink: /publication/2023-01-20-paper-epeps-pd-classification
-excerpt: 'This paper is about partial discharge classificaion.'
+excerpt:
 date: 2023-10-15
 venue: '2023 IEEE 32nd Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS)'
 slidesurl: 'https://ieeexplore.ieee.org/document/10314925'
