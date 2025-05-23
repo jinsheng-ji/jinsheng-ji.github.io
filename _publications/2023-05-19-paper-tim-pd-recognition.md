@@ -2,6 +2,7 @@
 title: "External Partial Discharge Detection of Gas-Insulated Switchgears Using a Low-Noise and Enhanced-Sensitivity UHF Sensor Module"
 collection: publications
 category: manuscripts
+selected: false
 permalink: /publication/2023-05-19-paper-tim-pd-recognition
 excerpt: ""
 date: 2023-05-19

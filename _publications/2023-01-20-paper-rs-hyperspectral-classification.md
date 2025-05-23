@@ -2,6 +2,7 @@
 title: "Random Shuffling Data for Hyperspectral Image Classification with Siamese and Knowledge Distillation Network"
 collection: publications
 category: manuscripts
+selected: false
 permalink: /publication/2023-01-20-paper-rs-hyperspectral-classification
 excerpt: ""
 date: 2023-08-18

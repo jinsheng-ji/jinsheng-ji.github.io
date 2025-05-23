@@ -2,6 +2,7 @@
 title: "Edge-Computing-Based Knowledge Distillation and Multitask Learning for Partial Discharge Recognition"
 collection: publications
 category: manuscripts
+selected: true
 permalink: /publication/2024-01-08-paper-tim-pd-recognition
 excerpt: ""
 date: 2024-01-08

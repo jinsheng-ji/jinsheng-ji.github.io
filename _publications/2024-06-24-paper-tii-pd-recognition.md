@@ -2,6 +2,7 @@
 title: "Noise Separation and Discriminative Feature Learning for Partial Discharge Recognition"
 collection: publications
 category: manuscripts
+selected: true
 permalink: /publication/2024-06-24-paper-tii-pd-recognition
 excerpt: ""
 date: 2024-06-24

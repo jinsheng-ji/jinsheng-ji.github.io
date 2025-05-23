@@ -2,6 +2,7 @@
 title: "Remote Sensing Scene Classification via Pseudo-Category-Relationand Orthogonal Feature Learning"
 collection: publications
 category: manuscripts
+selected: true
 permalink: /publication/2025-01-20-paper-tgrs-scene-classification
 excerpt: ""
 date: 2025-01-20

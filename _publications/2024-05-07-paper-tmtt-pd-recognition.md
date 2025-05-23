@@ -2,6 +2,7 @@
 title: "Partial Discharge Detection and Classification Using Low-Noise UHF Sensing Frontend and Wavelet Scattering Feature Extraction Network"
 collection: publications
 category: manuscripts
+selected: false
 permalink: /publication/2024-05-07-paper-tmtt-pd-recognition
 excerpt: ""
 date: 2024-05-07

@@ -2,6 +2,7 @@
 title: "From Coarse to Fine: Knowledge Distillation for Remote Sensing Scene Classification"
 collection: publications
 category: conferences
+selected: true
 permalink: /publication/2023-01-20-paper-igarss-scene-classification
 excerpt: ""
 date: 2023-07-16

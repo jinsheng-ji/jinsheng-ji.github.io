@@ -2,6 +2,7 @@
 title: "From Coarse to Fine: Learning Semantic Relations for Hyperspectral Image Classification"
 collection: publications
 category: conferences
+selected: true
 permalink: /publication/2023-01-20-paper-igarss-hyperspectral-classification
 excerpt: ""
 date: 2023-07-16

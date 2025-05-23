@@ -2,6 +2,7 @@
 title: "Coil Antenna Sensor-Based Measurement Method to Online Detect Partial Discharge in Distributed Power Networks"
 collection: publications
 category: manuscripts
+selected: false
 permalink: /publication/2024-11-23-paper-tim-pd-recognition
 excerpt: ""
 date: 2023-11-23

@@ -2,6 +2,7 @@
 title: "Video Corpus Moment Retrieval via Deformable Multigranularity Feature Fusion and Adversarial Training"
 collection: publications
 category: manuscripts
+selected: false
 permalink: /publication/2023-01-20-paper-tcsvt-video-corpus
 excerpt: ""
 date: 2023-07-12

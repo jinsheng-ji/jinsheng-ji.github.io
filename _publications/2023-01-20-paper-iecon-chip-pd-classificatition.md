@@ -2,6 +2,7 @@
 title: "SoC Based Application of Smart Automatic Online Realtime Partial Discharge Condition Monitoring System for the Power Grid"
 collection: publications
 category: conferences
+selected: false
 permalink: /publication/2023-01-20-paper-iecon-chip-pd-classificatition
 excerpt: ""
 date: 2023-10-16

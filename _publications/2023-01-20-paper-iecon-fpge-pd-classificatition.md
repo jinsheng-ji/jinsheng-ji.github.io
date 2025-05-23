@@ -2,6 +2,7 @@
 title: "Application of A Low-Noise UHF Sensing System for Partial Discharge Diagnostic in Power Networks"
 collection: publications
 category: conferences
+selected: false
 permalink: /publication/2023-01-20-paper-iecon-chip-pd-classificatition
 excerpt: ""
 date: 2023-10-16
