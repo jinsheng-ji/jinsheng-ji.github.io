@@ -5,7 +5,7 @@ category: conferences
 selected: false
 permalink: /publication/2018-8-12-paper-icip-fine-grained-classification
 excerpt: ""
-date: 2018-8-12
+date: 2018-08-12
 venue: '2018 14th IEEE International Conference on Signal Processing (ICSP)'
 slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/8889697'
