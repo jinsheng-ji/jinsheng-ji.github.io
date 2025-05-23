@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * Ph.D in Control Science and Engineer, Shanghai Jiao Tong University, 2021
+  * Thesis title: Research on Hierarchical Fine-grained Image Recognition
 * M.S. in Control Science and Engineer, Shanghai Jiao Tong University, 2015
+  * Thesis title: Feature Selection and Stability Research of Remote Sensing Images Classification
 * B.S. in Automation, Nanjing Agricultural University, 2012
 
 Employment
