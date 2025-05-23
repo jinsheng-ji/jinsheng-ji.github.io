@@ -6,7 +6,7 @@ selected: false
 permalink: /publication/2020-01-20-paper-ijcai-monocular-depth
 excerpt: ""
 date: 2020-01-20
-venue: 'Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI)'
+venue: 'IJCAI'
 slidesurl: null
 paperurl: 'https://dl.acm.org/doi/abs/10.5555/3491440.3491574'
 citation: 'Xiong, Mingkang and Zhang, Zhenghong and Zhong, Weilin and <u><strong>Ji, Jinsheng</strong></u> and Liu, Jiyuan and Xiong, Huilin, "Remote Sensing Scene Classification via Pseudo-Category-Relationand Orthogonal Feature Learning," in Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI'20). Article 134, 963–969.'

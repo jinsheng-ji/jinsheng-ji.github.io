@@ -3,7 +3,7 @@ title: "Aircraft Detection from Remote Sensing Image Based on A Weakly Supervise
 collection: publications
 category: conferences
 selected: false
-permalink: /publication/2019-11-1-paper-igarss-object-detection
+permalink: /publication/2019-7-28-paper-igarss-object-detection
 excerpt: ""
 date: 2019-7-28
 venue: 'IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium'
