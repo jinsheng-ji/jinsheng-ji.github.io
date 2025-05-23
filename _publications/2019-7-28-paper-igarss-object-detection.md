@@ -5,7 +5,7 @@ category: conferences
 selected: false
 permalink: /publication/2019-7-28-paper-igarss-object-detection
 excerpt: ""
-date: 2019-7-28
+date: 2019-07-28
 venue: 'IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium'
 slidesurl: null
 paperurl: 'https://ieeexplore.ieee.org/document/8899864'
