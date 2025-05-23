@@ -2,7 +2,7 @@
 title: "Knowledge Distillation and Multi-task Feature Learning for Partial Discharge Recognition"
 collection: publications
 category: conferences
-selected: null
+selected: true
 permalink: /publication/2023-01-20-paper-epeps-pd-classification
 excerpt: ""
 date: 2023-10-15
