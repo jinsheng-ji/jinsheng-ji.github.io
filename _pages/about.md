@@ -29,7 +29,9 @@ News
 Projects
 ====== 
   <ul>{% for post in site.portfolio %}
-    {% include archive-single.html %}
+    {% if post.selected %}
+      {% include archive-single.html %}
+	{% endif %}
   {% endfor %}</ul>
   
 Selected Publications
