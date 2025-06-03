@@ -19,9 +19,14 @@ Education
 
 Employment
 ======
-* Dec 2021 to now: Nanyang Technological University, Research Fellow (Supervisor: [Xudong Jiang](https://dr.ntu.edu.sg/cris/rp/rp00233))
+<!--
+Dec 2021 to now: Nanyang Technological University, Research Fellow (Supervisor: [Xudong Jiang](https://dr.ntu.edu.sg/cris/rp/rp00233))
+-->
+* Dec 2021 to now: Nanyang Technological University, Research Fellow
   * Edge-computing AI for partial discharge identification in Switchgear
   * Safe and efficient AI algorithm for online condition monitoring of distributed power substations
+  * Federated and incremental learning-based AI for large-scale edge–cloud coordinated systems in online condition monitoring
+  * Robust and explainable AI with LLM and adversarial models for intelligent online condition monitoring
   
 Publications
 ======
