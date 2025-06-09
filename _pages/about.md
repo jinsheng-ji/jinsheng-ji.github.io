@@ -12,7 +12,7 @@ I am currently serving as a Research Fellow in SP Group-NTU Joint Lab of Nanyang
 
 News
 ======
-* Our paper has been submitted to IEEE Transactions on Neural Networks and Learning Systems (2025)
+* Our paper has been submitted to IEEE Transactions on Neural Networks and Learning Systems (Double blind, 2025)
 * Our paper has been submitted to IEEE Transactions on Instrumentation and Measurement (2025)
 * Our paper has been submitted to IEEE Transactions on Power Delivery (2025)
 * Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (2025.1.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10847778)
