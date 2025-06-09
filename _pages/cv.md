@@ -42,16 +42,16 @@ Teaching
   {% endfor %}</ul>
 -->
 
-Service and leadership
-======
-* Servers as reviewer for journals of IEEE TNNLS/TGRS/TCSVT/TMM/TIM etc. and conferences of IEEE ICIP/IGARSS etc.
-
-Skills
-======
-* Python (Pytorch for deep learning, PyQt for GUI), matlab, C++
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Skills
+======
+* Python (Pytorch for deep learning, PyQt for GUI), matlab, C++
+
+Service and leadership
+======
+* Serve as reviewer for IEEE journals, including TNNLS, TGRS, TCSVT, TMM, and TIM, as well as IEEE conferences such as ICIP and IGARSS, among others.
