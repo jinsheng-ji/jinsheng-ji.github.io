@@ -42,16 +42,17 @@ Teaching
   {% endfor %}</ul>
 -->
 
+Research Area
+======
+* Edge-computing AI, Condition Monitoring, Fault Diagnosis, Image and Time-Series Signal Classification.
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
+Skills and Service
 ======
 * Python (Pytorch for deep learning, PyQt for GUI), matlab, C++
-
-Service and leadership
-======
 * Serve as reviewer for IEEE journals, including TNNLS, TGRS, TCSVT, TMM, and TIM, as well as IEEE conferences such as ICIP and IGARSS, among others.
