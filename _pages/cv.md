@@ -28,12 +28,6 @@ Dec 2021 to now: Nanyang Technological University, Research Fellow (Supervisor: 
   * Federated and incremental learning-based AI for large-scale edge–cloud coordinated systems in online condition monitoring
   * Robust and explainable AI with LLM and adversarial models for intelligent online condition monitoring
   
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 <!--
 Talks
 ======
@@ -55,3 +49,9 @@ Service and leadership
 Skills
 ======
 * Python (Pytorch for deep learning, PyQt for GUI), matlab, C++
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
