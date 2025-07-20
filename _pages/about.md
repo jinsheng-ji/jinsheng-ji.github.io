@@ -14,15 +14,15 @@ News
 ======
 * Our paper has been submitted to IEEE Transactions on Neural Networks and Learning Systems (Double blind, 2025)
 * Our paper has been submitted to IEEE Transactions on Instrumentation and Measurement (2025)
-* Our paper has been submitted to IEEE Transactions on Power Delivery (2025)
-* Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (2025.1.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10847778)
-* Our PCT about partial discharge identification has finished International Search and is soon under International Publication (2024.12) :sparkles: :rocket:
-* Our paper has been accepted by IEEE Internet of Things Journal (2024.9.20) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10684776)
-* Our paper has been accepted by IEEE Transactions on Industrial Informatics (2024.6.24) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10569991)
-* Our paper has been accepted by IEEE Transactions on Microwave Theory and Techniques (2024.5.7) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10522489)
-* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2024.1.08) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10384445)
-* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2023.11.23) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10328632)
-* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (2023.5.19) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10129983)
+* Our paper has been accepted by IEEE Transactions on Power Delivery (July 2025)[paper:sparkles: :rocket:] (https://ieeexplore.ieee.org/document/11085129)
+* Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (Jan 2025) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10847778)
+* Our PCT about partial discharge identification has finished International Search and is soon under International Publication (Dec 2024) :sparkles: :rocket:
+* Our paper has been accepted by IEEE Internet of Things Journal (Sep 2024) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10684776)
+* Our paper has been accepted by IEEE Transactions on Industrial Informatics (Jun 2024) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10569991)
+* Our paper has been accepted by IEEE Transactions on Microwave Theory and Techniques (May 2024) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10522489)
+* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (Jan 2024) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10384445)
+* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (Nov 2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10328632)
+* Our paper has been accepted by IEEE Transactions on Instrumentation and Measurement (May 2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10129983)
 * Our paper has been accepted by IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS) (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10314925)
 * Our two papers have been accepted by IEEE International Geoscience and Remote Sensing Symposium (2023) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10282366) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10281715)
 
