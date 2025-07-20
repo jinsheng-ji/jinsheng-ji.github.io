@@ -15,6 +15,7 @@ News
 * Our paper has been submitted to IEEE Transactions on Neural Networks and Learning Systems (Double blind, 2025)
 * Our paper has been submitted to IEEE Transactions on Instrumentation and Measurement (2025)
 * Our paper has been accepted by IEEE Transactions on Power Delivery (July 2025)[paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/11085129)
+* Our paper has been accepted by IEEE Transactions on Power Delivery (July 2025)[paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/11085129)
 * Our paper has been accepted by IEEE Transactions on Geoscience and Remote Sensing (Jan 2025) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10847778)
 * Our PCT about partial discharge identification has finished International Search and is soon under International Publication (Dec 2024) :sparkles: :rocket:
 * Our paper has been accepted by IEEE Internet of Things Journal (Sep 2024) [paper:sparkles: :rocket:](https://ieeexplore.ieee.org/document/10684776)
